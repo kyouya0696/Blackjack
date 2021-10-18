@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"cc.shinbi.exercise.blackjack"},{"l":"すべてのパッケージ","u":"allpackages-index.html"}];updateSearchResults();
